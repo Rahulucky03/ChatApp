@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1039277820961",
+    "firebase_url": "https://byrahulucky.firebaseio.com",
+    "project_id": "byrahulucky",
+    "storage_bucket": "byrahulucky.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039277820961:android:aacbb0e1d6657519",
+        "android_client_info": {
+          "package_name": "rahul.lucky.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039277820961-46fjv2gct0frsnid5ns7c7ghkmfq0inb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rahul.lucky.chatapp",
+            "certificate_hash": "ac8a8a7b95efb670cc50f47827109ee516906bb5"
+          }
+        },
+        {
+          "client_id": "1039277820961-hho5vm77ikhnt0jd14i2745gup7nj3p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Ynre-uxjNr07Z9i-C6RMCokKjalfG_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039277820961-hho5vm77ikhnt0jd14i2745gup7nj3p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
